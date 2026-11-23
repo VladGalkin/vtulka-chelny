@@ -12,7 +12,7 @@
 
 Начните с [карты документации](docs/README.md):
 
-- [Vision v0.2 — Approved](docs/01_Project/Vision.md), утверждён владельцем проекта
+- [Vision](docs/01_Project/Vision.md)
 - [Журнал решений](docs/01_Project/DecisionLog.md)
 - [Бизнес-требования](docs/02_Requirements/BusinessRequirements.md)
 - [Границы MVP](docs/02_Requirements/MVPScope.md)
