@@ -36,4 +36,4 @@ Angular + SSR/SSG, TypeScript, NestJS, Prisma, PostgreSQL, Docker Compose, GitHu
 
 ## Текущий следующий шаг
 
-VT-005 — описать функциональные требования к поиску изделия, выбору исполнения и передаче обращения. Основания для сценариев — [анализ аудитории](docs/03_Analysis/TargetAudience.md) и [анализ конкурентов и спроса](docs/03_Analysis/CompetitorsAndSearchDemand.md). Канал передачи обращений предстоит согласовать с директором.
+VT-009 — спроектировать структуру страниц и URL. Основание — [пользовательские сценарии](docs/02_Requirements/UserStories.md) и [утверждённые границы MVP](docs/02_Requirements/MVPScope.md). Канал передачи обращений предстоит согласовать с директором.
