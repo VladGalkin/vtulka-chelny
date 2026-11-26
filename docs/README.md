@@ -4,9 +4,9 @@
 
 | Папка | Назначение | Состояние |
 |---|---|---|
-| `01_Project` | Vision, терминология, журнал решений | Черновики |
+| `01_Project` | [Vision](01_Project/Vision.md), терминология, журнал решений | Vision v0.2 утверждён владельцем проекта |
 | `02_Requirements` | Бизнес-требования, MVP, открытые вопросы | Черновики |
-| `03_Analysis` | Аудит и аудитория | Частично |
+| `03_Analysis` | [Аудит](03_Analysis/SiteAudit.md), [аудитория](03_Analysis/TargetAudience.md), [конкуренты и спрос](03_Analysis/CompetitorsAndSearchDemand.md) | Подготовлены материалы VT-002–004 |
 | `04_Architecture` | Выбор архитектуры, ADR, API | Позже |
 | `05_Database` | ER-модель, структура данных | Позже |
 | `06_Design` | Прототипы, UI/UX | Позже |
